@@ -16,9 +16,9 @@ Template Post Type: post, page, product
 				</h1>
 				<?getmenu();?>
 				<div class="socseti2">
-					<?if(getContacts()["facebook"]!=""):?><a href="<?=getContacts()["facebook"];?>"><div class="fb fb2"></div></a><?endif;?>
-                    <?if(getContacts()["inst"]!=""):?><a href="<?=getContacts()["inst"];?>"><div class="inst inst2"></div></a><?endif;?>
-                    <?if(getContacts()["vk"]!=""):?><a href="<?=getContacts()["vk"];?>"><div class="vk vk2"></div></a><?endif;?>
+					<?if(getContacts()["facebook"]!='" target="_blank"'):?><a href="<?=getContacts()["facebook"];?>"><div class="fb fb2"></div></a><?endif;?>
+					<?if(getContacts()["inst"]!='" target="_blank"'):?><a href="<?=getContacts()["inst"];?>"><div class="inst inst2"></div></a><?endif;?>
+					<?if(getContacts()["vk"]!='" target="_blank"'):?><a href="<?=getContacts()["vk"];?>"><div class="vk vk2"></div></a><?endif;?>
 				</div>			
 			</div>
 		</div>
@@ -33,9 +33,9 @@ Template Post Type: post, page, product
 			<h1>Меню</h1>
 		</div>
 		<div class="socseti">
-			<?if(getContacts()["facebook"]!=""):?><a href="<?=getContacts()["facebook"];?>"><div class="fb fb2"></div></a><?endif;?>
-            <?if(getContacts()["inst"]!=""):?><a href="<?=getContacts()["inst"];?>"><div class="inst inst2"></div></a><?endif;?>
-            <?if(getContacts()["vk"]!=""):?><a href="<?=getContacts()["vk"];?>"><div class="vk vk2"></div></a><?endif;?>
+			<?if(getContacts()["facebook"]!='" target="_blank"'):?><a href="<?=getContacts()["facebook"];?>"><div class="fb"></div></a><?endif;?>
+			<?if(getContacts()["inst"]!='" target="_blank"'):?><a href="<?=getContacts()["inst"];?>"><div class="inst"></div></a><?endif;?>
+			<?if(getContacts()["vk"]!='" target="_blank"'):?><a href="<?=getContacts()["vk"];?>"><div class="vk"></div></a><?endif;?>
 		</div>
 	</div>
 	<div class="gallery">
