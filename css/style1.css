@@ -1,0 +1,1190 @@
+@media(max-width: 1550px){
+	.btnnomer{
+		width: 200px;
+		padding-left: 20px;
+		font-size: 15px;
+		letter-spacing: 2px;
+	}
+	.btnnomer .longline{
+		right: 15px;
+	}
+	.ptl{
+		padding-right: 100px;
+	}
+	.opisnomer{
+		margin-left: 4.5%;
+	}
+}
+
+@media(max-width: 1430px){
+	.leftnomer{
+		margin-left: 15px;
+	}
+	.rightnomer{
+		margin-right: 15px;
+	}
+	.ptl{
+		padding-right: 50px;
+		padding-left: 8%;
+	}
+}
+
+@media(max-width: 1330px){
+	.width{
+		width: 50%;
+	}
+	.centertxt{
+		clear: both;
+	}
+	.ptl{
+		padding-right: 50px;
+		padding-left: 50px;
+	}
+	.opisnomer{
+		margin-left: 3%;
+	}
+	.glavfoto{
+		width: 540px;
+	}
+	.sliderak{
+		width: 900px;
+	}
+	.akfoto1{
+		left: -900px;
+	}
+	.akfoto3{
+		right: -900px;
+	}
+	.closeform{
+		right: -60px;
+	}
+}
+
+@media(max-width: 1199px){
+	.closeform{
+		right: -23px;
+	}
+	.opis{
+		margin-left: 30px;
+		width: 360px;
+	}
+	.opisnomer{
+		margin-left: 0px;
+	}
+	.btnbron{
+		width: 200px;
+		padding-left: 20px;
+		-webkit-background-size: 30px 31px;
+		background-size: 35px 36px;
+		background-position: right 12px center;
+		margin-left: 30px;
+		font-size: 14px;
+	}
+	.opisnomer h2{
+		font-size: 26px;
+		margin-top: 55px;
+	}
+	.allopismenu .col-md-6{
+		padding: 0px;
+	}
+	.tenfoto{
+		left: 40px;
+		top: 40px;
+	}
+	.slider{
+		margin-top: 80px;
+	}
+	.menurestorana{
+		padding-left: 40px;
+	}
+}
+
+@media(max-width: 1120px){
+	.sliderak{
+		width: 800px;
+	}
+	.akfoto1{
+		left: -800px;
+	}
+	.akfoto3{
+		right: -800px;
+	}
+	.bgwh{
+		width: 830px;
+	}
+	.bgwh input, .typemerop{
+		width: 200px;
+		margin-left: 20px;
+		background-color: #fff;
+		letter-spacing: 1px;
+		padding-left: 20px;
+	}
+	.typemerop{
+		background-position: right 10px center;
+	}
+	.pomidorka{
+		top: 90px;
+	}
+	.bgwh h1, .bgwh p, .btnzayavka4{
+		position: relative;
+	}
+	.bgwh input::-webkit-input-placeholder {letter-spacing: 1px;}
+.bgwh input::-moz-placeholder          { letter-spacing: 1px;}
+.bgwh input:-moz-placeholder           {letter-spacing: 1px;}
+.bgwh input:-ms-input-placeholder      {letter-spacing: 1px;}
+	
+	.glavfoto{
+		width: 524px;
+		height: 450px;
+	}
+	.forma{
+		height: 150px;
+		width: 780px;
+		left: calc(50% - 390px);
+	}
+	.punkt, .punkt2{
+		padding-left: 20px;
+		width: 200px;
+	}
+	.punkt:nth-child(3){
+		width: 180px;
+	}
+	.punkt2:nth-child(3){
+		width: 160px;
+	}
+	.punkt h1, .punkt2 h1, .countmenu ul li{
+		font-size: 26px;
+	}
+	.punkt h1 span, .punkt2 h1 span, .countmenu ul li span{
+		font-size: 44px;
+	}
+	.strdown{
+		margin-bottom: 0px;
+	}
+	.strdown2{
+		margin-bottom: 5px;
+	}
+	.form-group{
+		margin-bottom: 10px;
+	}
+	.btnzayavka{
+		width: 200px;
+		padding-top: 55px;
+		padding-left: 75px;
+		-webkit-background-size: 45px 46px;
+		background-size: 45px 46px;
+		background-position: 18px center;
+		letter-spacing: 2px;
+		font-size: 17px;
+	}
+	.ptl{
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+	.formanomer{
+		width: 100%;
+		margin-top: 0px;
+		text-align: center;
+		padding-top: 80px;
+	}
+	.closeform{
+		top: 10px;
+		right: 10px;
+	}
+	.itogo{
+		height: 83px;
+		padding-top: 0px;
+		width: 140px;
+		padding-left: 25px;
+		margin-right: 30px;
+	}
+	.formainput input{
+		width: 220px;
+	}
+	.nomer2{
+		margin-right: 30px;
+		width: 223px;
+	}
+	.topnomer2{
+		height: 210px;
+	}
+	.centercenter{
+		width: 730px;
+		margin: 0 auto;
+		text-align: left;
+	}
+}
+@media(max-width: 991px){
+	.sliderak{
+		width: 700px;
+		height: 450px;
+		margin-top: 40px;
+	}
+	.akfoto1{
+		left: -700px;
+	}
+	.akfoto3{
+		right: -700px;
+	}
+	.opisak{
+		height: 120px;
+	}
+	.bgak{
+		margin-top: 60px;
+		padding-top: 50px;
+		padding-bottom: 60px;
+	}
+	.dataak{
+		padding-top: 20px;
+		width: 120px;
+	}
+	.dataak h1{
+		font-size: 50px;
+	}
+	.dataak h2{
+		font-size: 14px;
+		margin-top: 4px;
+	}
+	.opisak2{
+		padding-top: 25px;
+		width: 360px;
+		padding-left: 20px;
+	}
+	.opisak2 h1{
+		font-size: 18px;
+	}
+	.opisak2 p{
+		font-size: 14px;
+		line-height: 20px;
+	}
+	.fotomenu{
+		height: 400px;
+		width: 300px;
+	}
+	.menurestorana{
+		padding-left: 35px;
+	}
+	.menurestorana h1 span{
+		display: none;
+	}
+	.menurestorana ul{
+		margin-top: 20px;
+	}
+	.menurestorana ul li{
+		padding-bottom: 8px;
+	}
+	.tenfoto{
+		left: 15px;
+		top: 15px;
+		width: 300px;
+		height: 400px;
+	}
+	.allopismenu, .slider{
+		margin-top: 50px;
+	}
+	.vid{
+		width: 120px;
+	}
+	.polosamenu{
+		margin-top: 25px;
+	}
+	.ptl{
+		padding-left: 30px;
+		padding-right: 15px;
+	}
+	.valensia{
+		padding-top: 50px;
+		padding-bottom: 40px;
+	}
+	.opisslide h1{
+		font-size: 50px;
+	}
+	.slide{
+		height: 500px;
+	}
+	.forma{
+		bottom: 50px;
+	}
+	.valensia h1{
+		font-size: 40px;
+		margin-top: 50px;
+	}
+	.valensia p{
+		margin-top: 20px;
+	}
+	.relative{
+		margin-top: 50px;
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	.nomera h1, .infaak h1{
+		font-size: 40px;
+	}
+	.linenomer{
+		margin-top: 25px;
+	}
+	.bggrey{
+		width: 85%;
+		top: 22px;
+	}
+	.leftnomer h1{
+		font-size: 20px;
+	}
+	.leftnomer h2{
+		font-size: 20px;
+	}
+	.btnnomera{
+		margin-top: 60px;
+	}
+	.otduh h1{
+		font-size: 50px;
+	}
+	.zayavka{
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+	.zayavka p{
+		margin-bottom: 10px;
+	}
+	.zayavka a{
+		font-size: 62px;
+	}
+	.btnzayavka2{
+		margin-top: 20px;
+	}
+	.karta{
+		height: 400px;
+	}
+	.position{
+		top: 55px;
+		left: calc(50% + 5px);
+	}
+	.formanomer{
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	.gallfoto{
+		width: calc(25% - 25px);
+		margin-left: 20px;
+	}
+	.opisnomer h1{
+		font-size: 50px;
+	}
+	.bggrey2{
+		top: 45px;
+	}
+	.btnbron{
+		margin-top: 20px;
+		height: 60px;
+		padding-top: 21px;
+		margin-bottom: 30px;
+	}
+	.opisnomer h2{
+		margin-top: 35px;
+	}
+	.opisnomer ul{
+		margin-top: 0px;
+	}
+	.opisnomer ul li{
+		margin-top: 8px;
+	}
+	.lineopis, .opisnomer h3, .opisnomer p{
+		margin-top: 20px;
+	}
+	.opisnomer p{
+		line-height: 22px;
+	}
+	.glavfoto{
+		width: 430px;
+		height: 300px;
+	}
+	.btnprev, .btnnext{
+		width: 60px;
+		height: 50px;
+	}
+	.btnnext{
+		left: 60px;
+	}
+	.btnprev:hover, .btnnext:hover{
+		background-position: right 30px center;
+	}
+	.opisnomer{
+		margin-top: 120px;
+	}
+	.nomeratwo h1{
+		margin-top: 50px;
+	}
+	.menurst{
+		margin-top: 20px;
+	}
+	.btnnomera{
+		background: url(../img/linebtn.png) repeat-x;
+		background-position: bottom left;
+		-webkit-background-size: 140px 8px;
+		background-size: 140px 8px;
+	}
+}
+
+@media(max-width: 840px){
+	.containerImg {
+	position:fixed;
+	width:100%;
+	height:100%;
+	top:0;
+	left:0;
+	z-index:11;
+	background-size:contain!important;
+	background-repeat:no-repeat!important;
+	background-position:center center!important;
+	background-color:#fff!important;	
+}
+	
+	.sliderak{
+		width: 600px;
+		height: 400px;
+	}
+	.akfoto1{
+		left: -600px;
+	}
+	.akfoto3{
+		right: -600px;
+	}
+	.bgwh{
+		width: 90%;
+		height: 800px;
+	}
+	.bggr{
+		padding-bottom: 50px;
+	}
+	#name{
+		margin-left: auto;
+	}
+	.bgwh input, .typemerop{
+		display: block;
+		margin: 0 auto;
+		margin-top: 25px;
+		width: 265px;
+	}
+	.btnzayavka4{
+		margin-top: 25px;
+	}
+	.forma{
+		width: auto;
+		height: auto;
+		left: calc(50% - 120px);
+	}
+	.punkt{
+		display: none;
+	}
+	.btnzayavka{
+		height: 120px;
+		padding-top: 40px;
+		padding-left: 95px;
+		background-position: 35px center;
+		width: 240px;		
+	}
+	.width{
+		float: none;
+		width: 75%;
+		margin: 0 auto;
+		margin-top: 50px;
+	}
+	.btnnomer{
+		display: block;
+	}
+	.rightnomer{
+		margin-top: -35px;
+	}
+	.glavfoto{
+		margin: 0 auto;
+		float: none;
+	}
+	.opis{
+		margin-top: 40px;
+		width: 100%;
+		padding-left: 160px;
+		padding-right: 15px;
+		margin-left: 0px;
+	}
+	.bggrey2{
+		height: 1000px;
+	}
+	.slider{
+		padding-bottom: 50px;
+	}
+	.prevfoto, .nextfoto{
+		width: 50px;
+		height: 50px;
+		top: calc(50vh - 20px);
+		right: 30px;
+	}
+	.prevfoto{
+		left: 30px;
+	}
+	.prevfoto:before, .nextfoto:before{
+		-webkit-background-size: 40px 8px;
+		background-size: 40px 12px;
+		left: calc(50% - 20px);
+		top: calc(50% - 6px)
+	}
+	.closeGallary{
+		width: 50px;
+		height: 50px;
+		top: 30px;
+		right: 30px;
+	}
+	.closeGallary:before, .closeGallary:after{
+		width: 46px;
+		left: calc(50% - 23px);
+	}
+	.bgheader{
+		min-height: 450px;
+	}
+}
+
+@media(max-width: 767px){
+	.sliderak{
+		width: 480px;
+		height: 380px;
+	}
+	.akfoto1{
+		left: -480px;
+	}
+	.akfoto3{
+		right: -480px;
+	}
+	.fotomenu{
+		display: none;
+	}
+	.menurestorana h1 span{
+		display: block;
+	}
+	.vid{
+		padding-left: 10px;
+		padding-right: 10px;
+		width: 100px;
+	}
+	.allopismenu{
+		padding-bottom: 0px;
+	}
+	.vid img{
+		max-width: 82px;
+	}
+	.valensia h1{
+		margin-top: 0px;
+	}
+	.btnfoto{
+		margin-top: 25px;
+	}
+	.foto1{
+		height: 219px;
+		width: 400px;
+		margin: 0 auto;
+		margin-top: 40px;
+	}
+	.foto2{
+		height: 256px;
+		width: 200px;
+		margin-top: -150px;
+		margin-left: 20px;
+	}
+	.foto3{
+		height: 202px;
+		width: 300px;
+		margin-top: -150px;
+		margin-left: 150px;
+	}
+	.otduh{
+		width: 50%;
+	}
+	.btnzayavka3{
+		clear: both;
+		float: none;
+	}
+	.formainput input{
+		display: block;
+		margin-left: 0px;
+		margin-top: 20px;
+	}
+	.punkt2{
+		float: none;
+		width: 100%;
+		margin-top: 39px;
+		border-left: 1px solid #CFCFCF;
+	}
+	.punkt2:nth-child(3){
+		width: 100%;
+		border-right: 1px solid #CFCFCF;
+	}
+	.allpunkts{
+		float: right;
+		width: 200px;
+	}
+	.formainput input{
+		width: 200px;
+		height: 60px;
+	}
+	.btnzayavka3{
+		width: 200px;
+		margin-top: 20px;
+	}
+	.formainput{
+		float: left;
+	}
+	.formanomer h3{
+		clear: both;
+		margin-top: 0px;
+		padding-top: 40px;
+	}
+	.centercenter{
+		width: 430px;
+	}
+	.punkt2:first-child{
+		margin-top: 0px;
+	}
+	.topnomer2{
+		width: 100%;
+		height: 200px;
+	}
+	.nomer2{
+		width: 205px;
+	}
+	.nomer2:nth-child(2n+1) {
+		margin-right: 20px;
+	}
+	 .nomer2:nth-child(2n) {
+		margin-right: 0px;
+	}
+	.gallfoto{
+		width: calc(33.333333% - 40px);
+		margin-left: 30px;
+	}
+	.menublock2{
+		top: calc(50% - 200px);
+	}
+	.menublock2 h1{
+		font-size: 40px;
+		margin-bottom: 20px;
+	}
+	.socseti2{
+		margin-top: 30px;
+	}
+	.btnclose{
+		right: -100px;
+		top: -50px;
+	}
+	.deg{
+		width: 200px;
+		height: 152px;
+		-webkit-background-size: cover;
+		background-size: cover;
+	}
+	.bgwh h1{
+		font-size: 50px;
+	}
+	.logo{
+		width: 250px;
+		height: 102px;
+		left: calc(50% - 125px);
+	}
+}
+
+@media(max-width: 650px){
+	.vid{
+		width: 150px;
+		float: none;
+		display: inline-table;
+		border-right: 1px solid #A08F8C;
+		margin-top: 20px;
+	}
+	.vid:first-child{
+		border-left: 1px solid #A08F8C;
+	}
+	.polosamenu{
+		margin-top: 0px;
+	}
+	.pomidorka, .salad{
+		display: none;
+	}
+	.deg{
+		width: 150px;
+		height: 114px;
+	}
+	.deg:nth-child(1){
+		left: 30px;
+		top: 32px;
+	}
+	.deg:nth-child(2){
+		right: 30px;
+		top: 32px;
+	}
+	.deg:nth-child(3){
+		left: 30px;
+		bottom: 32px;
+	}
+	.deg:nth-child(4){
+		right: 30px;
+		bottom: 32px;
+	}
+	.bgwh{
+		height: 690px;
+		padding-top: 70px;
+	}
+	.opisslide{
+		width: 100%;
+		left: 30px;
+		padding-right: 45px;
+		bottom: 90px;
+	}
+	.opisslide h1{
+		font-size: 40px;	
+	}
+	.opisslide h2{
+		padding-top: 6px;
+	}
+	.slide{
+		height: 450px;
+	}
+	.prevslide{
+		left: 30px;
+		bottom: 25px;
+	}
+	.nextslide{
+		left: 100px;
+		bottom: 25px;
+	}
+	.sliderak{
+		width: 480px;
+		height: 380px;
+	}
+	.leftslide{
+		left: 20px;
+		z-index: 1;
+	}
+	.rightslide{
+		right: 20px;
+		z-index: 1;
+	}
+	.akfoto1{
+		left: -480px;
+	}
+	.akfoto3{
+		right: -480px;
+	}
+}
+
+@media(max-width: 560px){
+	.nazad{
+		margin-left: 20px;
+		font-size: 14px;
+		letter-spacing: 1px;
+		padding-top: 2px;
+	}
+	.logo{
+		width: 200px;
+		height: 81px;
+		left: calc(50% - 100px);
+	}
+	.width{
+		width: 100%;
+	}
+	.otduh h1{
+		font-size: 40px;
+	}
+	.karta{
+		background-position: left -600px center;
+	}
+	.position{
+		left: 120px;
+	}
+	.nomera p, .infaak p{
+		width: 100%;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.gallfoto{
+		width: calc(50% - 30px);
+		margin-left: 20px;
+	}
+	.opis{
+		padding-left: 60px;
+	}
+	.bggrey2{
+		width: 100%;
+	}
+	.vid{
+		width: 140px;
+	}
+	.bgwh p{
+		width: 100%;
+	}
+	.menurestorana{
+		padding-left: 10px;
+	}
+	.slide{
+		height: 400px;
+	}
+	.sliderak{
+		width: 400px;
+		height: 350px;
+	}
+	.akfoto1{
+		left: -400px;
+	}
+	.akfoto3{
+		right: -400px;
+	}
+	.opisak{
+		height: 90px;
+	}
+	.dataak{
+		padding-top: 15px;
+		width: 90px;
+	}
+	.dataak h1{
+		font-size: 40px;
+	}
+	.dataak h2{
+		font-size: 13px;
+		margin-top: 0px;
+	}
+	.opisak2{
+		width: 310px;
+		padding-top: 15px;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.opisak2 h1{
+		font-size: 14px;
+	}
+	.opisak2 p{
+		font-size: 13px;
+		line-height: 16px;
+	}
+}
+
+@media(max-width: 460px){
+	.vid:nth-child(2n){
+		margin-left: 30px;
+	}
+	.menurestorana h1{
+		font-size: 36px;
+	}
+	.menurestorana h1 span{
+		width: 30px;
+		height: 5px;
+		top: calc(50% - 3px);
+		left: -50px;
+	}
+	.menurestorana h1 span:last-child{
+		right: -50px;
+	}
+	.countmenu{
+		padding-bottom: 0px;
+	}
+	.countmenu ul li{
+		letter-spacing: 1px;
+		font-size: 14px;
+	}
+	.countmenu ul li span{
+		font-size: 19px;
+	}
+	.punkt2 h1, .countmenu ul li{
+		font-size: 20px;
+		letter-spacing: 1.5px;
+	}
+	.punkt2 h1 span, .countmenu ul li span{
+		font-size: 30px;
+	}
+	.form-group{
+		margin-bottom: 7px;
+	}
+	.strdown2{
+		margin-bottom: 3px;
+	}
+	.socseti{
+		margin-right: 15px;
+		margin-top: 35px;
+	}
+	.gamb{
+		left: 15px;
+		top: 20px;
+	}
+	.slovo h1{
+		margin-left: 95px;
+		margin-top: 44px;
+	}
+	.menu2 h1{
+		margin-top: 31px;
+	}
+	.socseti a{
+		margin-right: 8px;
+	}
+	.socseti a:first-child{
+		margin-right: 15px;
+	}
+	.topnomer{
+		height: 300px;
+	}
+	.btnnomera{
+		font-size: 18px;
+	}
+	.zayavka p{
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.topnomer2{
+		height: 250px;
+	}
+	.nomer2{
+		width: 100%;
+		margin-right: 0px!important;
+	}
+	.punkt2{
+		padding-left: 10px;
+	}
+	.allpunkts{
+		width: 145px;
+	}
+	.btnzayavka3{
+		width: 130px;
+		font-size: 14px;
+		padding-top: 15px;
+	}
+	.formainput input{
+		width: 130px;
+		padding-left: 15px;
+		height: 50px;
+	}
+	.formanomer input::-webkit-input-placeholder {font-size: 12px; letter-spacing: 1px;}
+	.formanomer input::-moz-placeholder          {font-size: 12px; letter-spacing: 1px;}
+	.formanomer input:-moz-placeholder           {font-size: 12px; letter-spacing: 1px;}
+	.formanomer input:-ms-input-placeholder      {font-size: 12px; letter-spacing: 1px;}
+	.itogo{
+		height: auto;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		margin: 0px;
+		width: 130px;
+	}
+	.itogo h1{
+		font-size: 15px;
+		margin: 0px;
+	}
+	.itogo h2{
+		font-size: 13px;
+		margin-top: 0px;
+		margin-bottom: 5px;
+	}
+	.centercenter{
+		width: 320px;
+	}
+	.opis{
+		padding-left: 30px;
+	}
+	.glavfoto{
+		width: 100%;
+		height: 260px;
+	}
+	.opisnomer{
+		margin-top: 50px;
+	}	
+	.deg{
+		width: 100px;
+		height: 76px;
+	}
+	.deg:nth-child(1){
+		left: 15px;
+		top: 16px;
+	}
+	.deg:nth-child(2){
+		right: 15px;
+		top: 16px;
+	}
+	.deg:nth-child(3){
+		left: 15px;
+		bottom: 16px;
+	}
+	.deg:nth-child(4){
+		right: 15px;
+		bottom: 16px;
+	}
+	.foto1{
+		width: 300px;
+	}
+	.foto3{
+		width: 250px;
+		margin-left: 140px;
+	}
+}
+
+@media(max-width: 420px){
+	.nazad{
+		margin-left: 10px;
+		font-size: 13px;
+		padding-left: 15px;		
+	}
+	.nazad:hover{
+		background-position: left center;
+	}
+	.foto1{
+		width: 300px;
+	}
+	.foto2{
+		margin-left: 0px;
+	}
+	.foto3{
+		margin-left: 100px;
+	}
+	.sliderak{
+		width: 100%;
+		height: 350px;
+	}
+	.akfoto1{
+		left: -100%;
+	}
+	.akfoto3{
+		right: -100%;
+	}
+	.opisak2{
+		width: calc(100% - 90px);
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.opisak2 h1{
+		font-size: 13px;
+	}
+	.opisak2 p{
+		font-size: 11px;
+	}
+	.vid:nth-child(2n){
+		margin-left: 15px;
+	}
+	.vid{
+		width: 125px;
+	}
+	.opisslide h2{
+		font-size: 14px;
+	}
+	.opisslide h1{
+		font-size: 30px;
+	}
+	.slider{
+		margin-top: 30px;
+	}
+	.deg{
+		display: none;
+	}
+	.bgwh{
+		padding-top: 40px;
+		height: auto;
+		padding-bottom: 40px;
+	}
+	.bgwh p{
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.bgwh input, .typemerop, .btnzayavka4{
+		width: 240px;
+		height: 55px;
+	}
+	.typemerop{
+		padding-top: 17px;
+	}
+	.btnzayavka4{
+		background: none;
+		padding-left: 0px;
+		text-align: center;
+		padding-top: 17px;
+		background-color: #A08F8C;
+	}
+	.bgwh h1{
+		font-size: 40px;
+	}
+	.rightnomer h2{
+		padding-left: 0px;
+		width: 118px;
+		background: none!important;
+		font-size: 14px;
+	}
+	.btnnomer{
+		width: 140px;
+		padding-left: 0px;
+		text-align: center;
+		letter-spacing: 1px;
+		font-size: 14px;
+		height: 60px;
+		padding-top: 20px;
+	}
+	.btnnomer .longline{
+		display: none;
+	}
+	.botnomer{
+		height: 90px;
+	}
+	.leftnomer h1, .leftnomer h2{
+		font-size: 16px;
+	}
+	.leftnomer h2 span{
+		font-size: 14px;
+	}
+	.topnomer{
+		height: 200px;
+	}
+	.otduh h1{
+		font-size: 32px;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+	.zayavka a{
+		font-size: 50px;
+	}
+	.position{
+		width: 200px;
+		padding-left: 15px;
+		padding-right: 10px;
+		padding-top: 20px;
+		left: 100px;		
+	}
+	.karta{
+		background-position: left -620px center;
+	}
+	.position p{
+		font-size: 16px;
+	}
+	.btnfoto{
+		width: 240px;
+		letter-spacing: 1.5px;
+	}
+	.centercenter{
+		width: 295px;
+		padding-left: 10px;
+	}
+	.nomera2{
+		padding-right: 15px;
+	}
+	.btnclose{
+		right: -70px;
+		top: -50px;
+	}
+	.opis{
+		padding-left: 15px;
+	}
+	.btnbron{
+		width: 140px;
+		padding-left: 0px;
+		background: none;
+		background-color: #A08F8C;
+		margin-left: 20px;
+		text-align: center;
+		font-size: 13px;
+		height: 50px;
+		padding-top: 17px;
+	}
+	.opisnomer h2{
+		font-size: 20px;
+	}
+	.opisnomer ul{
+		padding-left: 39px;
+	}
+}
