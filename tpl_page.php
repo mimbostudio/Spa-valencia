@@ -7,9 +7,9 @@ Template Post Type: post, page, product
 <div class="menuinnomer">
 		<a href="<? if(in_category('Номера')):?>/#nomers<? else: ?>/#uslugy<? endif;?>" class="nazad">Вернуться назад</a>
 		<div class="socseti">
-			<a href="<?=getContacts()["facebook"];?>"><div class="fb fb2"></div></a>
-			<a href="<?=getContacts()["inst"];?>"><div class="inst inst2"></div></a>
-			<a href="<?=getContacts()["vk"];?>"><div class="vk vk2"></div></a>
+			<?if(getContacts()["facebook"]!=""):?><a href="<?=getContacts()["facebook"];?>"><div class="fb fb2"></div></a><?endif;?>
+			<?if(getContacts()["inst"]!=""):?><a href="<?=getContacts()["inst"];?>"><div class="inst inst2"></div></a><?endif;?>
+			<?if(getContacts()["vk"]!=""):?><a href="<?=getContacts()["vk"];?>"><div class="vk vk2"></div></a><?endif;?>
 		</div>
 	</div>
 	<div class="relative">

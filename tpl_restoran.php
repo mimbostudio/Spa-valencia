@@ -16,9 +16,9 @@ Template Post Type: post, page, product
 				</h1>
 				<?getmenu();?>
 				<div class="socseti2">
-					<a href="<?=getContacts()["facebook"];?>"><div class="fb fb2"></div></a>
-					<a href="<?=getContacts()["inst"];?>"><div class="inst inst2"></div></a>
-					<a href="<?=getContacts()["vk"];?>"><div class="vk vk2"></div></a>
+					<?if(getContacts()["facebook"]!=""):?><a href="<?=getContacts()["facebook"];?>"><div class="fb fb2"></div></a><?endif;?>
+					<?if(getContacts()["inst"]!=""):?><a href="<?=getContacts()["inst"];?>"><div class="inst inst2"></div></a><?endif;?>
+					<?if(getContacts()["vk"]!=""):?><a href="<?=getContacts()["vk"];?>"><div class="vk vk2"></div></a><?endif;?>
 				</div>			
 			</div>
 		</div>
@@ -33,9 +33,9 @@ Template Post Type: post, page, product
 			<h1>Меню</h1>
 		</div>
 		<div class="socseti">
-			<a href="<?=getContacts()["facebook"];?>"><div class="fb"></div></a>
-			<a href="<?=getContacts()["inst"];?>"><div class="inst"></div></a>
-			<a href="<?=getContacts()["vk"];?>"><div class="vk"></div></a>
+			<?if(getContacts()["facebook"]!=""):?><a href="<?=getContacts()["facebook"];?>"><div class="fb"></div></a><?endif;?>
+			<?if(getContacts()["inst"]!=""):?><a href="<?=getContacts()["inst"];?>"><div class="inst"></div></a><?endif;?>
+			<?if(getContacts()["vk"]!=""):?><a href="<?=getContacts()["vk"];?>"><div class="vk"></div></a><?endif;?>
 		</div>
 		<div class="logo"></div>
 	</div>
